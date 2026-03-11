@@ -1,0 +1,11 @@
+environment          = "dev"
+db_user              = ""
+db_password          = ""
+db_name              = ""
+db_port              = 5432
+jenkins_port         = 8090
+frontend_port        = 8080
+product_service_port = 5001
+order_service_port   = 5002
+minikube_cpus        = 2
+minikube_memory      = 4096
