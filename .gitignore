@@ -6,3 +6,4 @@ terraform/envs/*.tfvars
 terraform/.terraform/
 *.tfstate
 *.tfstate.backup
+kubeconfig-jenkins.txt
